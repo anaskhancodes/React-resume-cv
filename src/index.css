@@ -1,0 +1,59 @@
+/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext'); */
+
+/* fonts.css */
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+body {
+  background-color: rgb(93, 113, 138);
+  display: flex;
+  justify-content: center;
+}
+.my-custom-font {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.resume {
+  background-color: rgb(255, 255, 255);
+  width: 700px;
+  height: 1150px;
+  box-shadow: -5px 2px 20px 5px black;
+  /* display: flexbox; */
+}
+
+.right-info {
+  width: 270px;
+  height: 1150px;
+  background-color: rgb(255, 189, 0);
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.resume .right-info img {
+  width: 180px;
+  height: 180px;
+  margin-top: 30px;
+}
+
+.right-info img {
+  margin-left: 45px;
+}
+
+
+
+@media only screen and (max-width: 775px) {
+  .resume{
+    width: 500px;
+    height: 830px;
+  }
+  .right-info{
+    width: 160px;
+    height: 830px;
+  }
+  .resume .right-info img{
+    width: 120px;
+    height: 120px;
+    margin-top: 47px;
+    margin-left: 20px;
+  }
+}
+

@@ -7,6 +7,7 @@ body {
   background-color: rgb(93, 113, 138);
   display: flex;
   justify-content: center;
+  overflow-x: hidden;
 }
 .my-custom-font {
   font-family: 'Source Sans Pro', sans-serif;
@@ -57,3 +58,19 @@ body {
   }
 }
 
+@media only screen and (max-width: 550px){
+  .resume{
+    width: 345px;
+    height: 555px;
+  }
+  .right-info{
+    width: 108px;
+    height: 555px;
+  }
+  .resume .right-info img{
+    width: 80px;
+    height: 80px;
+    margin-top: 22px;
+    margin-left: 15px;
+  }
+}

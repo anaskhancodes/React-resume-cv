@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import { TelephoneFill, GeoAltFill, EnvelopeAtFill, Linkedin, Github } from 'react-bootstrap-icons';
 import './index.css';
 import './info.css';
 import './self.css';
@@ -27,14 +27,14 @@ function Hi() {
                 {/*  */}
 
                 <h1 className='contact'>Contact</h1>
-                <p><a href="">+92 323-703-4406</a></p>
-                <p><a href="milto:a4anas406@gmail.com">a4anas406@gmail.com</a></p>
-                <p><a href="https://www.linkedin.com/in/muhammadanaskhancodes/">Linkedin.</a></p>
-                <p><a href="https://github.com/anaskhancodes">GitHub.</a></p>
+                <p><a href=""><TelephoneFill/> +92 323-703-4406</a></p>
+                <p><a href="milto:a4anas406@gmail.com"><EnvelopeAtFill/> a4anas406@gmail.com</a></p>
+                <p><a href="https://www.linkedin.com/in/muhammadanaskhancodes/"><Linkedin/> Linkedin.</a></p>
+                <p><a href="https://github.com/anaskhancodes"><Github/> GitHub.</a></p>
                 <p>
                 {/* <i className="fa-solid fa-location-dot" style="color: #000000;"></i> */}
                     <a href="https://goo.gl/maps/v3jke4YGf7qYqPWH7">
-                        House No. L-150/T, Sector 5C3
+                    <GeoAltFill/>&nbsp; House No. L-150/T, Sector&nbsp; 5C3 
                         North Karachi, Karachi
                         Pakistan
                     </a>

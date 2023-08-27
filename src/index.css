@@ -68,6 +68,10 @@ body {
     width: 108px;
     height: 555px;
   }
+  .right-info a{
+    font-size: 5px;
+    margin-left: -7px;
+  }
   .resume .right-info img{
     width: 80px;
     height: 80px;

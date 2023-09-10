@@ -18,7 +18,7 @@ function Hi() {
                 {/*  */}
 
                 <h1 className='about'>About</h1>
-                <p>I recently completed my FSc part-1 studies at Government
+                <p className='about-me'>I recently completed my FSc part-1 studies at Government
                     Boys Degree College, and I am currently pursuing my education at
                     <br />
                     <span>SMIT(Saylani Mass IT Training).</span>
@@ -52,7 +52,7 @@ function Hi() {
                     <li>Node.JS</li>
                     <li>MongoDB</li>
                     <li>Firebase</li>
-                    <li>React</li>
+                    <li>React.JS</li>
                 </ul>
             </div>
 

@@ -90,6 +90,10 @@ ul li {
         font-size: 7px;
     }
 
+    .address{
+        margin-right: 10px;
+    }
+
     p {
         font-size: 6px;
         margin-top: 10px;

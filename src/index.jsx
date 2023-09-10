@@ -31,8 +31,7 @@ function Hi() {
                 <p><a href="milto:a4anas406@gmail.com"><EnvelopeAtFill/> a4anas406@gmail.com</a></p>
                 <p><a href="https://www.linkedin.com/in/muhammadanaskhancodes/"><Linkedin/> Linkedin.</a></p>
                 <p><a href="https://github.com/anaskhancodes"><Github/> GitHub.</a></p>
-                <p>
-                {/* <i className="fa-solid fa-location-dot" style="color: #000000;"></i> */}
+                <p className='address'>
                     <a href="https://goo.gl/maps/v3jke4YGf7qYqPWH7">
                     <GeoAltFill/>&nbsp; House No. L-150/T, Sector&nbsp; 5C3 
                         North Karachi, Karachi

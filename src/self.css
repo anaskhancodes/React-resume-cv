@@ -202,4 +202,8 @@ hr {
         margin-right: 30px;
         font-size: 8px;
     }
+
+    .li-hr{
+        height: 1px;
+    }
 }

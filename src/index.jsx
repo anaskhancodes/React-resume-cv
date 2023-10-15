@@ -21,14 +21,14 @@ function Hi() {
                 <p className='about-me'>I recently completed my FSc part-1 studies at Government
                     Boys Degree College, and I am currently pursuing my education at
                     <br />
-                    <span>SMIT(Saylani Mass IT Training).</span>
+                    <a href="https://www.facebook.com/SaylaniMassITTraining"><span>SMIT(Saylani Mass IT Training).</span></a>
                 </p>
 
                 {/*  */}
 
                 <h1 className='contact'>Contact</h1>
                 <p><a href=""><TelephoneFill/> +92 323-703-4406</a></p>
-                <p><a href="milto:a4anas406@gmail.com"><EnvelopeAtFill/> a4anas406@gmail.com</a></p>
+                <p><a href="mailto:a4anas406@gmail.com"><EnvelopeAtFill/> a4anas406@gmail.com</a></p>
                 <p><a href="https://www.linkedin.com/in/muhammadanaskhancodes/"><Linkedin/> Linkedin.</a></p>
                 <p><a href="https://github.com/anaskhancodes"><Github/> GitHub.</a></p>
                 <p className='address'>
@@ -76,7 +76,7 @@ function Hi() {
             <div className='certi-info'>
                 <ul className='certi-ul'>
                     <li>
-                        I am currently enrolled in <span>SMIT (Saylani Mass IT Training),</span>
+                        I am currently enrolled in <a href="https://www.facebook.com/SaylaniMassITTraining"><span>SMIT (Saylani Mass IT Training),</span></a>
                         specializing in MERN STAKE development. I have successfully
                         completed training in HTML5, CSS3, Bootstrap, JavaScript ES6,
                         Express.js, Node.js, MongoDB & React
@@ -84,7 +84,7 @@ function Hi() {
                     <hr className='li-hr' />
                     <li>
                         I'm actively learning about the Web 3.0 metaverse from
-                        <span> JawanPakistan.</span> Excited about its potential, I'm exploring
+                        <a href="https://www.facebook.com/jawanPakistan786"><span> JawanPakistan.</span></a> Excited about its potential, I'm exploring
                         decentralized platforms, blockchain, virtual reality, and
                         augmented reality. I aim to contribute to the development of
                         this immersive digital world and create innovative

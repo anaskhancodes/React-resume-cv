@@ -82,6 +82,9 @@ hr {
     font-family: var(--font-fam);
 }
 
+a{
+    text-decoration: none;
+}
 
 .certi-ul {
     margin-left: -20px;
